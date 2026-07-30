@@ -20,7 +20,7 @@
 <tr>
 <td width="60%">
 
-I'm a **Full Stack Developer** and **UI/UX Designer** who loves turning rough ideas into polished, usable products. I care as much about how something *feels* to use as how it's built underneath — that's where design meets engineering for me.
+I'm a **Full Stack Developer** and **Web Design and Development** who loves turning rough ideas into polished, usable products. I care as much about how something *feels* to use as how it's built underneath — that's where design meets engineering for me.
 
 When I'm not shipping features, I'm usually sketching interface flows, exploring a new framework, or getting lost in an open-source rabbit hole.
 
@@ -29,7 +29,7 @@ When I'm not shipping features, I'm usually sketching interface flows, exploring
 
 ```yaml
 name: Sandeepa Tharushika
-role: Full Stack Dev / UI-UX Designer
+role: Web Designer / Full Stack Dev 
 status: open to internships
 focus:
   - Frontend Engineering
@@ -44,9 +44,9 @@ fun_fact: "ships pixels and APIs equally"
 
 <div align="center">
 
-🌱 **Currently Exploring:** Advanced React Patterns · Cloud Architecture · Design Systems
-🎯 **Looking For:** Internship roles in Software Engineering & Product Design
-📌 **Currently Building:** Something new, always
+🌱 **Currently Exploring** → Advanced React Patterns · Cloud Architecture · Design Systems <br>
+🎯 **Looking For** → Internship roles in Software Engineering & Product Design <br>
+📌 **Currently Building** → Something new, always
 
 </div>
 
@@ -57,7 +57,6 @@ fun_fact: "ships pixels and APIs equally"
 <div align="center">
 
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
 ![React](https://skillicons.dev/icons?i=react)
@@ -67,14 +66,14 @@ fun_fact: "ships pixels and APIs equally"
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![Photoshop](https://skillicons.dev/icons?i=ps)
+![Illustrator](https://skillicons.dev/icons?i=ai)
 
 </div>
 
