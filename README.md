@@ -1,12 +1,12 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hey, I'm Sandeepa Tharushika
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Sandeepa%20Tharushika&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Passionate%20IT%20Student%20|%Exloring%20the%20Boundless%20World%20of%20Technology&descAlignY=55&descSize=17" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Sandeepa%20Tharushika&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Passionate%20IT%20Student%20|%20Exloring%20the%20Boundless%20World%20of%20Technology&descAlignY=55&descSize=17" width="100%" />
 </div>
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00C2A8&center=true&vCenter=true&random=false&width=550&lines=Full+Stack+Developer+%E2%9A%99%EF%B8%8F;UI%2FUX+Designer+%F0%9F%8E%A8;Lifelong+Learner+%F0%9F%93%9A;Detail-Obsessed+Builder+%F0%9F%94%A8;Coffee-Powered+Coder+%E2%98%95)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00C2A8&center=true&vCenter=true&random=false&width=550&lines=Full+Stack+Developer+%E2%9A%99%EF%B8%8F;Web%2FDeveloper+%F0%9F%8E%A8;Web+Designer+%F0%9F%93%9A;Detail-Obsessed+Builder+%F0%9F%94%A8;Coffee-Powered+Coder+%E2%98%95)](https://git.io/typing-svg)
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
