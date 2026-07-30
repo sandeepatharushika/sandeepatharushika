@@ -79,24 +79,19 @@ fun_fact: "ships pixels and APIs equally"
 
 ---
 
-## 📈 GitHub in Numbers
+# 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&custom_title=My%20Activity" width="100%" alt="activity graph">
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepatharushika&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=00C2A8&icon_color=00C2A8&text_color=c9d1d9&bg_color=0d1117" alt="Sandeepa's GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=00C2A8&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top languages" />
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00C2A8&fire=FF6B6B&currStreakLabel=00C2A8" alt="streak stats" />
-</div>
+# 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
@@ -104,9 +99,9 @@ fun_fact: "ships pixels and APIs equally"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeepa-tharushika-612899310/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C2A8?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepatharushika124@gmail.com)
 
 </div>
 
