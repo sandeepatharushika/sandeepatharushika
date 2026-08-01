@@ -72,8 +72,14 @@ fun_fact: "ships pixels and APIs equally"
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+
+
 ![Photoshop](https://skillicons.dev/icons?i=ps)
 ![Illustrator](https://skillicons.dev/icons?i=ai)
+![Adobe Animate](https://skillicons.dev/icons?i=ae)
+![AutoCAD](https://skillicons.dev/icons?i=autocad)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+
 
 </div>
 
